@@ -15,7 +15,9 @@
     "url": "https://github.com/queckezz/global-undom"
   },
   "author": "Fabian Eichenberger <fabian.eichenberger@gmail.com>",
-  "dependencies": {},
+  "dependencies": {
+    "undom": "^0.3.0"
+  },
   "devDependencies": {
     "snazzy": "^4.0.0",
     "xyz": "^1.0.0"
