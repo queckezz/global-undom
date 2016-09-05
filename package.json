@@ -1,6 +1,6 @@
 {
   "name": "global-undom",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Run browser-specific code in node using undom",
   "main": "index.js",
   "browser": {
